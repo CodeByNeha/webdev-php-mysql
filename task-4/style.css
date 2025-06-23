@@ -1,0 +1,37 @@
+body {
+  background-color: #f8f9fa;
+  font-family: "Segoe UI", sans-serif;
+}
+
+h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+form {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+table {
+  background: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+th {
+  background-color: #343a40;
+  color: white;
+}
+
+td,
+th {
+  padding: 12px !important;
+  text-align: center;
+}
+
+.btn {
+  margin-right: 5px;
+}
